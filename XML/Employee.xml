@@ -1,0 +1,12 @@
+﻿<Employees>
+	<Employee>
+		<Name>Rohit</Name>
+		<City>New York</City>
+		<Salary>50000</Salary>
+	</Employee>
+	<Employee>
+		<Name>Vivek</Name>
+		<City>Los Angeles</City>
+		<Salary>60000</Salary>
+	</Employee>
+</Employees>
